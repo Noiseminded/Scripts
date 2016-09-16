@@ -11,6 +11,9 @@ public class AmplitudeScale : MonoBehaviour {
 	private float clipLoudness;
 	private float[] clipSampleData;
 
+	//ADDED THIS TEST LINE
+
+
 	// Use this for initialization
 	void Awake () {
 
